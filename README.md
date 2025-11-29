@@ -3,6 +3,10 @@
 > Welcome to the digital junk drawer!
 > Here you’ll find a glorious mess of shell scripts, hacks, and questionable solutions to problems you didn’t know you had.
 
+<p align="center">
+	<img src="logo.jpg" alt="Digital Junk Drawer Logo" width="400" />
+</p>
+
 ## What’s inside?
 - Scripts that fix things you broke.
 - Scripts that break things you fixed.
